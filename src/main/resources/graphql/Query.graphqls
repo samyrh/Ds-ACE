@@ -1,0 +1,5 @@
+type Query {
+
+    getBooksByTile (title: String) : [Book]
+
+}
